@@ -2,6 +2,7 @@
 name = "crowbar"
 version = "0.1.0"
 authors = ["panicbit <panicbit.dev@gmail.com>"]
+license = "MIT/Apache-2.0"
 
 [dependencies]
 hyper = "0.7.2"
